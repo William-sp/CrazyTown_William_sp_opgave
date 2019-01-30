@@ -9,4 +9,4 @@
 ## Phase 3:
 ### Take the fetch from the last phase and use that (or replace phase 2 with this phase), and every 2 seconds it will update and display on 4 HTML Elements. 
 ### (Optional: Make a CSS loader that loads the page within 8 seconds.)
-
+## Phase 4: 
