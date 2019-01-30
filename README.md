@@ -7,4 +7,4 @@
 ## Phase 2:
 ### Take the API (*https://swapi.co/api/people/10/*) and collect 4 different objects from within that API and display it on the HTML.
 ## Phase 3:
-### 
+### Make a CSS loader that loads the page within 5 seconds
