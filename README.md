@@ -7,4 +7,5 @@
 ## Phase 2:
 ### Take the API (*https://swapi.co/api/people/10/*) and collect 4 different objects from within that API and display it on the HTML.
 ## Phase 3:
-### Make a CSS loader that loads the page within 5 seconds
+### Take the fetch from the last phase and use that with a timeout (or replace phase 2 with this phase), and every 2 seconds it will update and display it on 4 HTML Elements. 
+### (Optional: Make a CSS loader that loads the page within 5 seconds.)
