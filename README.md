@@ -1,6 +1,6 @@
 # CrazyTown_William_sp
 
-*(Remember to Link the CSS and JS into the html)*.
+*(Remember to Link the **CSS** and **JS** into the **HTML**)*.
 
 ## Phase 1:
 ### Make a counter that continuously counts up to 10 when click of a button,and when the counter reaches 10 make the counter continuously count down.
